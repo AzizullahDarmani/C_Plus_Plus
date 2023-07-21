@@ -27,7 +27,10 @@ int main() {
 
 
 	int a; 
-	cin>> a; 
+	int b; 
+	cin>> a;
+	cin>> b ;  
 	cout<< "this is the result: " << sqrt(a)<< endl; 
+	cout<< "the additon of "<< a << " and "<< b << " : " << a+b << endl; 
 	
 }
